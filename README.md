@@ -1,11 +1,13 @@
 ## Coding Knowledge
 
+### Proficient in:
+
 - Python
 - Java
 - Javascript
 - HTML & CSS
 
-### Coding Learning
+### Still learning:
 
 - C++
 - Visual Basic
