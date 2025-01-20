@@ -1,5 +1,3 @@
-Felix Gallé
-
 ## Coding Knowledge
 
 - Python
