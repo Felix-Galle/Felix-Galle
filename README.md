@@ -15,7 +15,7 @@
 - Swift
 - Objective-C
 
-  I've had to use a couple for previous school and persona projects but I don't know enough about them for it to be useful.
+  I've had to use a couple for previous school and personal projects but I don't know enough about them for it to be useful.
 
 ## Detail
 
@@ -29,5 +29,12 @@ I hd to do a club whilst at school about computers, it was my own decision, but 
 
 
 #### Extra Notes
+
 - All of my projects & software are under MIT License unless specified in the project. Use freely but be aware that I may decide to private or archive some of the software if I choose to.
 - if you experience any errors with my software just send an issue message, and I'll try to sort it out.
+
+###### Disclaimers
+
+I tend to forget to prood read and there may be mistakes in my writing. I'm sorry for any confusion I may cause/have caused.
+
+My commit messages usually end up being complete jargon. I apologise for any confusion I may cause/have caused.
