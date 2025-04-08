@@ -4,16 +4,11 @@
 
 - Python
 - Java
-- Javascript
 - HTML & CSS
 
-### Still learning:
+### Learning:
 
-- C++
-- Visual Basic
 - C#
-- Swift
-- Objective-C
 
   I've had to use a couple for previous school and personal projects but I don't know enough about them for it to be useful.
 
